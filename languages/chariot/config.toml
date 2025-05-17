@@ -1,0 +1,11 @@
+name = "Chariot"
+grammar = "chariot"
+path_suffixes = ["chariot"]
+line_comments = ["// "]
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "\"", end = "\"", close = true, newline = false },
+    { start = "<", end = ">", close = false, newline = true },
+]
+tab_size = 4

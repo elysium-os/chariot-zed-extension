@@ -1,0 +1,11 @@
+id = "chariot"
+name = "Chariot"
+version = "0.0.1"
+schema_version = 1
+authors = ["WuX <wux@thenest.dev>"]
+description = "Chariot DSL Support"
+repository = "https://github.com/elysium-os/chariot"
+
+[grammars.chariot]
+repository = "https://github.com/elysium-os/chariot-tree-sitter"
+rev = "e5824d520a183275ccde3c768a02f9df6f6ccb6e"
