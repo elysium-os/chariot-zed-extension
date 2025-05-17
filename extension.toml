@@ -8,4 +8,4 @@ repository = "https://github.com/elysium-os/chariot"
 
 [grammars.chariot]
 repository = "https://github.com/elysium-os/chariot-tree-sitter"
-rev = "e5824d520a183275ccde3c768a02f9df6f6ccb6e"
+rev = "76ae23b5bc41b3b2d9c671968f91586540c02dd3"
